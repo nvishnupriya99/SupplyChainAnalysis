@@ -6,7 +6,7 @@ Interactive Power BI dashboard analysing $36.78M in global supply chain sales an
 
 An interactive three-page Power BI report analysing **$36.78M in sales across 181K orders** from a global supply chain operation, built to answer two questions a supply chain manager actually cares about: *where is the money coming from*, and *why are half our shipments late?*
 
-[▶️ Watch Dashboard Demo](./demo/dashboard-demo.mp4)
+[▶️ Watch Dashboard Demo](demo/DashboardDemo.mp4)
 
 ---
 
