@@ -9,7 +9,7 @@ This project uses the **DataCo Smart Supply Chain for Big Data Analysis** datase
 The dataset includes information about sales, profit, products, customers, markets, countries, shipping modes, and delivery performance.
 
 **Dataset source:**
-[Kaggle — DataCo Smart Supply Chain for Big Data Analysis]([https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis))
+[Kaggle — DataCo Smart Supply Chain for Big Data Analysis](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
 
 ---
 
