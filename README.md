@@ -117,4 +117,4 @@ supply-chain-analytics-powerbi/
 ## Author
 
 **Vishnu Priya** — MSc Data Science, Berlin
-[LinkedIn](www.linkedin.com/in/vishnupriyanagabhairava) · [GitHub](https://github.com/nvishnupriya99)
+[LinkedIn](https://www.linkedin.com/in/vishnupriyanagabhairava/) · [GitHub](https://github.com/nvishnupriya99)
