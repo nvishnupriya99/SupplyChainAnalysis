@@ -95,8 +95,6 @@ The raw file is not committed to this repository because of its size. See [`data
 ```
 supply-chain-analytics-powerbi/
 ├── README.md
-├── report/
-│   └── Supply_Chain_Analytics.pbix     # the Power BI report
 ├── data/
 │   └── README.md                       # dataset source and setup
 ├── docs/
