@@ -61,7 +61,7 @@ A drill-through page reached by right-clicking any country on the map. It filter
 ## Techniques demonstrated
 
 - **Star-schema data modelling** with a dedicated date table for time intelligence
-- **DAX measures** for rate and ratio calculations (late delivery rate, profit margin, average delivery days) — see [`docs/measures.md`](docs/measures.md)
+- **DAX measures** for rate and ratio calculations (late delivery rate, profit margin, average delivery days) — see [`docs/measures.md`](docs/Measures.md)
 - **Drill-through pages** with a back button, passing country context from the overview map
 - **Cross-filtering and slicer interactions** across all visuals on a page
 - **Report design** — consistent dark theme, KPI card hierarchy, and a layout that reads left-to-right from summary to detail
